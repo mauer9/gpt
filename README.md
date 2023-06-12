@@ -1,7 +1,8 @@
-# ChatGPT on custom data
+# GPT Question Answering over Docs
 
-ChatGPT for questions about Your Own Data
+GPT Question Answering over custom Docs
 
-Embeddings, Prompt Engineering and ChatGPT for Question Answering
+OpenAI LLM, Embeddings, Langchain
 
-Coding Example with Langchain
+- qna_1 uses [ChromaDB](https://www.trychroma.com/)
+- qna_2 uses [Pinecone](https://pinecone.io/) cloud vector db
